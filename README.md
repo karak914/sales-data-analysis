@@ -1,21 +1,21 @@
-# sales-data-analysis
-Sales Data Analysis and Prediction project using Python, Pandas, and Machine Learning. Includes data cleaning, visualization, and predictive modeling.
+# Grocery Sales Analysis & Forecasting
 
-## Tools & Technologies
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
+## Overview
+This project analyzes grocery sales data and builds a machine learning model to predict future sales.
 
 ## Features
-- Data cleaning and preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Data visualization (charts & graphs)  
-- Machine Learning model (Linear Regression)  
-- Sales prediction
+- Data cleaning and preprocessing
+- Time series analysis
+- Data visualization
+- Sales prediction using ML
+
+## Tools
+Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 
 ## Results
-- Identified top-performing regions
-- Built predictive model with good accuracy
+- Identified sales trends over time
+- Found weekly and monthly patterns
+- Built predictive model for forecasting
+
+## Author
+Harsh Buda
